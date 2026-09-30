@@ -1,0 +1,15 @@
+{
+  "name": "asterisk",
+  "productName": "Asterisk",
+  "version": "1.1.0",
+  "description": "Asterisk - an infinite whiteboard with a tremor-aware pen",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "license": "Apache-2.0",
+  "private": true,
+  "devDependencies": {
+    "electron": "43.2.0"
+  }
+}
